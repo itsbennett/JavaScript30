@@ -10,7 +10,6 @@ body {
 #nav {
     padding: 5px;;
     margin: 0;
-    border-bottom: 2px solid #454545;
 }
 
 
@@ -42,4 +41,8 @@ li a {
     /* border: 1px solid red; */
     padding-right: 12px;
     display: block;
+}
+
+h2 {
+    border-bottom: 1px solid #454545
 }
